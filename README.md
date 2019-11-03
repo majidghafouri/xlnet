@@ -4,7 +4,7 @@ XLNet Based Multimodal Sentiment Analysis
 
 **XLNet** is a new unsupervised language representation learning method based on a novel generalized permutation language modeling objective. Additionally, XLNet employs [Transformer-XL](https://arxiv.org/abs/1901.02860) as the backbone model, exhibiting excellent performance for language tasks involving long context. Overall, XLNet achieves state-of-the-art (SOTA) results on various downstream language tasks including question answering, natural language inference, sentiment analysis, and document ranking.
 
-For a detailed description of technical details and experimental results, please refer to our paper:
+For a detailed description of technical details and experimental results, please refer to paper:
 
 ​        [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
 
